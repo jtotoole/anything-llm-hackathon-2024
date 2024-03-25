@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-    <h1>AnythingLLM - Reporterning Addition: <br> A private ChatGPT to chat with <i>anything!</i></b></h1>
+    <h1>AnythingLLM - Reporting Addition: <br> A private ChatGPT to chat with <i>anything!</i></b></h1>
     An efficient, customizable, and open-source enterprise-ready document chatbot solution.
 </p>
 
